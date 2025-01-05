@@ -1,0 +1,18 @@
+Here’s the `requirements.txt` file for your project. It includes all the necessary Python packages required to run the script:
+
+```plaintext
+selenium==4.15.2
+opencv-python==4.8.1.78
+pyautogui==0.9.54
+pynput==1.7.6
+numpy==1.26.2
+```
+
+### How to Use:
+1. Save the above content in a file named `requirements.txt` in the root directory of your project.
+2. Install the dependencies by running:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+This will ensure all the required libraries are installed and compatible with your script.
